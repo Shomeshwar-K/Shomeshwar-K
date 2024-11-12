@@ -12,7 +12,7 @@ I’m an **Azure Support Engineer** with a keen interest in cloud technologies a
 
 ---
 
-### Technical Skills
+### My Tech Toolbox 🛠️
 
 #### **Cloud Platforms**  
 - **Microsoft Azure**  
