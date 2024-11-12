@@ -4,7 +4,7 @@ I’m an **Azure Support Engineer** with a keen interest in cloud technologies a
 
 ---
 
-### Areas of Focus
+### What I'm Currently Diving Into 🌊
 - 🌐 **Azure Cloud** Support Engineer with a strong foundation in cloud solutions and troubleshooting
 - 🚀 **Learning and Practicing DevOps** methodologies, including automation, CI/CD pipelines, and infrastructure as code
 - 🌩 **Cloud Networking**: Gaining expertise in cloud networking concepts, security, and optimization
