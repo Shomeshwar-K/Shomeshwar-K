@@ -1,11 +1,11 @@
 ## Hi, I'm Shomeshwark 👋
 
-I’m an **Azure Support Engineer** with a keen interest in cloud technologies and DevOps practices. Currently, I’m focused on expanding my knowledge in **DevOps** and exploring best practices for modern cloud infrastructure. I have experience working with both **Linux** and **Windows** environments and enjoy solving complex networking challenges in the cloud.
+I’m an **Cloud Engineer** with a keen interest in cloud technologies and DevOps practices. Currently, I’m focused on expanding my knowledge in **DevOps** and exploring best practices for modern cloud infrastructure. I have experience working with both **Linux** and **Windows** environments and enjoy solving complex networking challenges in the cloud.
 
 ---
 
 ### What I'm Currently Diving Into 🌊
-- 🌐 **Azure Cloud** Support Engineer with a strong foundation in cloud solutions and troubleshooting
+- 🌐 **Google Cloud** Cloud Engineer with a strong foundation in cloud solutions and troubleshooting
 - 🚀 **Learning and Practicing DevOps** methodologies, including automation, CI/CD pipelines, and infrastructure as code
 - 🌩 **Cloud Networking**: Gaining expertise in cloud networking concepts, security, and optimization
 - 🐧 Passionate about working with **Linux** and **Windows** systems, particularly for development and cloud operations
@@ -23,7 +23,7 @@ I’m an **Azure Support Engineer** with a keen interest in cloud technologies a
 - **Jenkins**: CI/CD automation  
 - **Docker**: Containerization and microservices  
 - **Kubernetes**: Orchestration and scaling  
-- **Ansible**: Automation and configuration management
+- **Terraform**: Instructure as code
 
 #### **Linux**  
 - Proficient with **Linux commands** for system administration and DevOps tasks
